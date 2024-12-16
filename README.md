@@ -34,4 +34,4 @@ With the source code, you can use the provided script for initial usage of our l
 RecBole-DA is developed and maintained by members from [RUCAIBox](http://aibox.ruc.edu.cn/), the developer is Shuqing Bian ([@fancybian](https://github.com/fancybian)).
 
 ## 6） Acknowledgement
-CoSeRec and CauseRec are implemented based on [CoSeRec](https://github.com/YChen1993/CoSeRec) and [CauseRec](https://github.com/gzy-rgb/CauseRec). Thanks them for providing efficient implementation.
+This is repo is developed based on [RecBole-DA](https://github.com/RUCAIBox/RecBole-DA)
